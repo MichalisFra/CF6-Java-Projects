@@ -1,4 +1,4 @@
-package gr.aueb.cf.OOPProjects.ch13;
+package gr.aueb.cf.OOPProjects.excersizes.ch13;
 
 public class Point {
     private int x;

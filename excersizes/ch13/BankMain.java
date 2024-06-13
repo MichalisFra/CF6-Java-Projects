@@ -1,8 +1,8 @@
-package gr.aueb.cf.OOPProjects.ch13;
+package gr.aueb.cf.OOPProjects.excersizes.ch13;
 
-import gr.aueb.cf.OOPProjects.ch13.bankapp.Account;
-import gr.aueb.cf.OOPProjects.ch13.bankapp.JointAccount;
-import gr.aueb.cf.OOPProjects.ch13.bankapp.OverdraftAccount;
+import gr.aueb.cf.OOPProjects.excersizes.ch13.bankapp.Account;
+import gr.aueb.cf.OOPProjects.excersizes.ch13.bankapp.JointAccount;
+import gr.aueb.cf.OOPProjects.excersizes.ch13.bankapp.OverdraftAccount;
 
 public class BankMain {
 
