@@ -1,5 +1,7 @@
 package gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2;
 
+import gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2.interfaces.IShape;
+
 import java.util.Random;
 
 /**

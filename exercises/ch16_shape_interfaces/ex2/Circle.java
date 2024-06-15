@@ -1,5 +1,7 @@
 package gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2;
 
+import gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2.interfaces.ICircle;
+
 /**
  * Circle represents a geometric shape with a radius, diameter, area, and circumference.
  * It extends {@link AbstractShape} and implements {@link ICircle} interface.

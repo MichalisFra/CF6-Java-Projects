@@ -1,6 +1,8 @@
 package gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2;
 
 
+import gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2.interfaces.IRectangle;
+
 /**
  * Rectangle represents a geometric shape with width, height, area, and circumference.
  * It extends {@link AbstractShape} and implements {@link IRectangle} interface.

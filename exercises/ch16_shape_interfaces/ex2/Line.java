@@ -1,5 +1,7 @@
 package gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2;
 
+import gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2.interfaces.ILine;
+
 /**
  * Line represents a geometric line that has a length.
  * It extends {@link AbstractShape} and implements {@link ILine}

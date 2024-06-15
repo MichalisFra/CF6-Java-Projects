@@ -1,4 +1,4 @@
-package gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2;
+package gr.aueb.cf.OOPProjects.exercises.ch16_shape_interfaces.ex2.interfaces;
 
 /**
  * Represents a two-dimensional shape that has both area and circumference.
