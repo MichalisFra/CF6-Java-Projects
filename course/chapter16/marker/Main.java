@@ -1,6 +1,6 @@
 package gr.aueb.cf.OOPProjects.course.chapter16.marker;
 
-import gr.aueb.cf.OOPProjects.course.chapter16.Cat;
+import gr.aueb.cf.OOPProjects.course.chapter16.catsanddogs.Cat;
 
 public class Main {
     public static void main(String[] args) {

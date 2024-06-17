@@ -1,4 +1,4 @@
-package gr.aueb.cf.OOPProjects.course.chapter16;
+package gr.aueb.cf.OOPProjects.course.chapter16.catsanddogs;
 
 public interface ISpeakable {
 
